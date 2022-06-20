@@ -1,0 +1,9 @@
+{
+    "name": "My Dapp",
+    "description": "A description of My Dapp",
+    "version": "1.0",
+    "license": { "name": "MIT" },
+    "authors": ["Mysterious team <contact@my_company.com>"],
+    "homepage": "https://my_dapp.com",
+    "interfaces": ["TZIP-012", "TZIP-016", "TZIP-017", "TZIP-021"]
+  }
