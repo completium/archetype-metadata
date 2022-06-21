@@ -50,7 +50,7 @@ entry unpause() {
   }
 }
 
-/* SET METADATA -------------------------------------------------------------*/
+/* METADATA ---------------------------------------------------------------- */
 
 entry set_metadata(k: string, d : option<bytes>) {
   called by owner
